@@ -15,4 +15,5 @@ The repository is organized into **branches** representing specific game version
 ---
 
 > **Ready to improve?**  
-> Hurry up and copy these replays directly into your SuperTuxKart replay folder, or download them now! 
+> Hurry up and copy these replays directly into your SuperTuxKart replay folder, or download them now!
+> Note - This is not a official Supertuxkart repository, please avoid any confusion. 
